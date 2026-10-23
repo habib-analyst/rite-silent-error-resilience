@@ -1,0 +1,2 @@
+# rite — deterministic, zero-dependency (stdlib only) except the test runner
+pytest>=8
